@@ -15,13 +15,13 @@ Me especializo en transformar datos complejos en soluciones estratégicas de neg
 
 ---
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andressilvavilla&show_icons=true&theme=radical)
 
 ---
 
 ### 🚀 Proyectos Destacados
-* 📁 **[Nombre de tu Proyecto 1]**: Breve descripción del problema de negocio y la solución con Python.
-* 📁 **[Nombre de tu Proyecto 2]**: Análisis de impacto y herramientas utilizadas.
+* 📁 **[Nombre de tu Proyecto 1]**: En preparacion
+* 📁 **[Nombre de tu Proyecto 2]**: En preparacion.
 
 ---
 
